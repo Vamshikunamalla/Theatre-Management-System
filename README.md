@@ -143,9 +143,9 @@ Before running the project:
 
 3.**Database Configuration**
 
-    .Create database schema (e.g., theatre_db)
+   .Create database schema (e.g., theatre_db)
 
-    .Update DB credentials in your DBUtility.java
+   .Update DB credentials in your DBUtility.java
 
 **##Example:**
 
@@ -155,9 +155,9 @@ Before running the project:
 
 4.**Deploy on Tomcat**
 
-      .Run the project via IDE
+   .Run the project via IDE
 
-      .Or export WAR and deploy on Tomcat
+   .Or export WAR and deploy on Tomcat
 
 5.**Access in Browser**
 
@@ -167,49 +167,48 @@ Before running the project:
 
 1.Viewer Registration / Login
 
-      .New users can register with personal details
+   .New users can register with personal details
   
-      .Existing users can log in to access the system
+   .Existing users can log in to access the system
   
 2.Browse Movies & Shows
 
-    .View available movies and showtimes
+   .View available movies and showtimes
   
-    .Filter by theatre, date, or genre
+   .Filter by theatre, date, or genre
 
 3.Select Seats
 
-    .Choose available seats for a selected show
+   .Choose available seats for a selected show
   
-    .Seat availability is updated in real-time
+   .Seat availability is updated in real-time
 
 4.View Tickets & Proceed to Payment
 
-    .Review selected seats and booking details
+   .Review selected seats and booking details
   
-    .Complete payment to confirm booking
+   .Complete payment to confirm booking
 
 5.Order Food
 
-    .Select food items from theatre menu
+   .Select food items from theatre menu
   
-    .Add to order and process payment if required
+   .Add to order and process payment if required
 
 6.Submit Review
 
-    .Give feedback or rating for the movie or theatre experience
+   .Give feedback or rating for the movie or theatre experience
 
-**  📦 Contribution Guidelines**
-
-  Contributions are welcome! To contribute:
+  **📦 Contribution Guidelines**
+Contributions are welcome! To contribute:
   
-    1.Fork the repository
+   1.Fork the repository
     
-    2.Create a new branch (feature/xyz)
+   2.Create a new branch (feature/xyz)
     
-    3.Make changes
+   3.Make changes
     
-    4.Submit a Pull Request
+   4.Submit a Pull Request
 
 
 ** 📝 License**
