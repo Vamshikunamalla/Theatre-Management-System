@@ -25,30 +25,55 @@ This system covers a wide range of theatre management functions:
 ## 📁 Project Structure
 
 porject_theatre_management_system/
+
 ├── src/main/java/com/jsp/theatre_management_system/
+
 │ ├── controller/ ← Handles HTTP requests (Servlets)
+
 │ │ ├── AddressController.java
+
 │ │ ├── BranchController.java
+
 │ │ ├── FoodController.java
+
 │ │ ├── ManagerController.java
+
 │ │ ├── MovieController.java
+
 │ │ ├── OwnerController.java
+
 │ │ ├── PaymentController.java
+
 │ │ ├── ReviewController.java
+
 │ │ ├── ScreenController.java
+
 │ │ ├── SeatController.java
+
 │ │ ├── StaffController.java
+
 │ │ ├── TheatreController.java
+
 │ │ ├── TicketController.java
+
 │ │ └── ViewerController.java
+
 │ ├── dao/ ← Database access logic
+
 │ ├── dto/ ← Data model classes
+
 │ ├── service/ ← Business logic
+
 │ └── util/ ← Utilities (DB connection, helpers)
+
 ├── src/main/webapp/
+
 │ ├── WEB-INF/views/ ← JSP pages
+
 │ └── assets/ ← CSS / JS / images
+
 ├── .gitignore
+
 └── README.md
 
 
@@ -111,11 +136,15 @@ Before running the project:
 git clone https://github.com/Vamshikunamalla/Theatre-Management-System.git
 
 2.  **Import into IDE**
+
 .Use Eclipse, IntelliJ IDEA, or similar
+
 .Import as Maven / Dynamic Web Project
 
 3.**Database Configuration**
+
 .Create database schema (e.g., theatre_db)
+
 .Update DB credentials in your DBUtility.java
 
 **##Example:**
@@ -124,10 +153,13 @@ String USER = "root";
 String PASS = "password";
 
 4.**Deploy on Tomcat**
+
 .Run the project via IDE
+
 .Or export WAR and deploy on Tomcat
 
 5.**Access in Browser**
+
 http://localhost:8080/porject_theatre_management_system/
 
 **🎯Typical Workflow**
