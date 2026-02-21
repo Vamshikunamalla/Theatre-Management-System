@@ -148,20 +148,21 @@ git clone https://github.com/Vamshikunamalla/Theatre-Management-System.git
 .Update DB credentials in your DBUtility.java
 
 **##Example:**
-String URL = "jdbc:mysql://localhost:3306/theatre_db";
-String USER = "root";
-String PASS = "password";
+
+    String URL = "jdbc:mysql://localhost:3306/theatre_db";
+    String USER = "root";
+    String PASS = "password";
 
 4.**Deploy on Tomcat**
 
-.Run the project via IDE
+  .Run the project via IDE
 
-.Or export WAR and deploy on Tomcat
+  .Or export WAR and deploy on Tomcat
 
 5.**Access in Browser**
 
-http://localhost:8080/porject_theatre_management_system/
-
+    http://localhost:8080/porject_theatre_management_system/
+  
 **🎯Typical Workflow**
 
 1.Viewer Registration / Login
@@ -211,13 +212,13 @@ http://localhost:8080/porject_theatre_management_system/
     4.Submit a Pull Request
 
 
-**   📝 License**
+** 📝 License**
 
-This project is open-source and released under the MIT License.
+  This project is open-source and released under the MIT License.
 
 **🙌 Acknowledgements**
 
-Thanks to all Java web tutorials and MVC design pattern resources that helped shape and structure this project.
+  Thanks to all Java web tutorials and MVC design pattern resources that helped shape and structure this project.
 
 ---
 
