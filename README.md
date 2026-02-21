@@ -133,33 +133,49 @@ http://localhost:8080/porject_theatre_management_system/
 **🎯Typical Workflow**
 
 1.Viewer Registration / Login
+
   .New users can register with personal details
+  
   .Existing users can log in to access the system
   
 2.Browse Movies & Shows
+
   .View available movies and showtimes
+  
   .Filter by theatre, date, or genre
 
 3.Select Seats
+
   .Choose available seats for a selected show
+  
   .Seat availability is updated in real-time
 
 4.View Tickets & Proceed to Payment
+
   .Review selected seats and booking details
+  
   .Complete payment to confirm booking
 
 5.Order Food
+
   .Select food items from theatre menu
+  
   .Add to order and process payment if required
 
 6.Submit Review
+
   .Give feedback or rating for the movie or theatre experience
 
 **  📦 Contribution Guidelines**
+
   Contributions are welcome! To contribute:
+  
     1.Fork the repository
+    
     2.Create a new branch (feature/xyz)
+    
     3.Make changes
+    
     4.Submit a Pull Request
 
 
